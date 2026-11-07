@@ -3,7 +3,7 @@
 // storage and never pass through here.
 //
 // Bump CACHE whenever any file changes, so devices pick up the new version.
-const CACHE = 'breathe-web-v1';
+const CACHE = 'breathe-web-v2';
 const ASSETS = [
   './',
   'index.html',
